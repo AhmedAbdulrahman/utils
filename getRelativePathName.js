@@ -1,5 +1,6 @@
 function getRelativePathName(path, url) {
   const split = path.split('/');
   split.pop();
-  return split.join('/public/') + '/' + url';
+
+  return split.join('./public/') + '/' + url';
 }
