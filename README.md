@@ -1,1 +1,1 @@
-# a collection of useful functions
+# a collection of useful JavaScript functions
